@@ -1,4 +1,4 @@
-import { definePrime } from "C:/module17_homework/definePrime.js";
+import { definePrime } from "../definePrime.js";
 
 describe('tests for definePrime function', ()=> {
 	const prime = 17;
