@@ -1,4 +1,4 @@
-import { getPercent } from "C:/module17_homework/getPercent.js";
+import { getPercent } from "../getPercent.js";
 
 describe("tests for getPercent function", () => {
 	it("should give error with negative numbers", () => {
